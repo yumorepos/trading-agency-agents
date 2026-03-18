@@ -6,3 +6,7 @@ __pycache__/
 venv/
 .vscode/
 .idea/
+
+*.egg-info/
+dist/
+build/
