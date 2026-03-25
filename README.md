@@ -1,14 +1,15 @@
 # 🎭 Trading Agency Agents
 
+> ⚠️ **Status: Experimental proof-of-concept** — Agent specifications in markdown, test harness only. No runnable agent implementation code. Part of the [autonomous-trading-system](https://github.com/yumorepos/autonomous-trading-system) research ecosystem.
+
 [![Tests](https://github.com/yumorepos/trading-agency-agents/actions/workflows/test.yml/badge.svg)](https://github.com/yumorepos/trading-agency-agents/actions/workflows/test.yml)
 
-> **4 specialized trading agents** for Polymarket prediction markets. Built using [The Agency](https://github.com/msitarzewski/agency-agents/) framework (50K+ GitHub stars).
+> 4 agent specifications for Polymarket prediction markets. Built using [The Agency](https://github.com/msitarzewski/agency-agents/) framework concept.
 
-**Status:** Phase 1 Complete ✅  
-**Validation:** +11.4% profit (42 trades, 23.4% avg edge)  
+**Status:** Experimental — agent specs + test harness only  
+**Validation:** Paper simulation (+11.4% across 42 simulated trades)  
 **Created:** 2026-03-17  
-**Framework:** The Agency (MIT License)  
-**Integration:** OpenClaw + Claude Code / Cursor / Copilot
+**Framework:** The Agency (MIT License)
 
 ---
 
